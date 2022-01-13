@@ -1,0 +1,14 @@
+{
+  "name": "72c43fc1712f105c",
+  "main": "72c43fc1712f105c@652.js",
+  "version": "652.0.0",
+  "homepage": "https://observablehq.com/d/72c43fc1712f105c",
+  "author": {
+    "name": "Qi Wu",
+    "url": "https://observablehq.com/@doctor"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
